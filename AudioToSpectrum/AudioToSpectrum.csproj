@@ -8,7 +8,8 @@
     <SupportedOSPlatformVersion>10.0.17763.0</SupportedOSPlatformVersion>
     <ApplicationIcon>ProgramIcon.ico</ApplicationIcon>
     <NeutralLanguage>en-US</NeutralLanguage>
-    <Version>1.0.0</Version>
+    <Version>1.1</Version>
+    <UseWindowsForms>True</UseWindowsForms>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
